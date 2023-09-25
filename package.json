@@ -1,0 +1,21 @@
+{
+  "name": "warm-inei",
+  "displayName": "Warm Inei",
+  "description": "I always felt like no other warm theme suits me, so I created my own.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Inei Warm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Inei Warm-color-theme.json"
+      }
+    ]
+  }
+}
