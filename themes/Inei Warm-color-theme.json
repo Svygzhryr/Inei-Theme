@@ -1,10 +1,83 @@
 {
 	"name": "Inei Warm",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// main colors
+		/*
+		#1a110a
+		#20150c
+		#27190e
+		*/
+
+		"titleBar.activeBackground": "#1a0808",
+		"titleBar.activeForeground": "#e4c495",
+		"titleBar.inactiveBackground": "#1a110a",
+		"titleBar.inactiveForeground": "#a18e66",
+
+		"badge.background": "#fabd4d",
+		"badge.foreground": "#1a110a",
+
+		"editor.background": "#27190e",
+		"editor.foreground": "#e4cb99",
+
+		"editorGroupHeader.noTabsBackground": "#1a110a",
+		"editorGroupHeader.tabsBackground": "#20150c",
+
+		"dropdown.background": "#3d2716",
+		"dropdown.border": "#1a110a",
+		"dropdown.foreground": "#e4cb99",
+		"dropdown.listBackground": "#27190e",
+
+		"button.background": "#fabd4d",
+		"button.foreground": "#1a110a",
+
+		"tab.border": "#1a110a",
+		"tab.inactiveModifiedBorder": "#1a110a",
+		"tab.activeBackground": "#1a0808",
+		"tab.activeForeground": "#e4cb99",
+		"tab.activeBorder": "#e4cb99",
+		"tab.inactiveBackground": "#20150c",
+		"tab.inactiveForeground": "#a18e66",
+
+		"activityBar.background": "#1a110a",
+		"activityBar.activeFocusBorder": "#fabd4d",
+		"activityBar.activeBorder": "#fabd4d",
+		"activityBar.activeBackground": "#20150c",
+		"activityBar.inactiveForeground": "#e4cb99",
+		"activityBar.foreground": "#fabd4d",
+		"activityBarBadge.background": "#fabd4d",
+		"activityBarBadge.foreground": "#1a0808",
+		
+		"sideBar.background": "#20150c",
+		"sideBar.foreground": "#e4cb99",
+		"sideBar.dropBackground": "#3d2716",
+		"sideBarSectionHeader.foreground": "#e4cb99",
+		"sideBarSectionHeader.background": "#20150c",
+		"sideBarSectionHeader.border": "#1a110a",
+		"sideBarTitle.foreground": "#e4cb99",
+
+		"list.inactiveSelectionBackground": "#3d2716",
+		"list.inactiveSelectionForeground": "#e4cb99",
+		"list.hoverBackground": "#3d2716",
+		"list.hoverForeground": "#ffe4ad",
+		"list.focusBackground": "#3d2716",
+		"list.focusForeground": "#fabd4d",
+		"list.focusOutline": "#633f24",
+		"list.focusHighlightForeground": "#fabd4d",
+		"list.focusAndSelectionOutline": "#633f24",
+		"list.dropBackground": "#3d2716",
+		"list.activeSelectionBackground": "#633f24",
+		"list.activeSelectionForeground": "#fabd4d",
+		"list.warningForeground": "#fabd4d",
+		"list.errorForeground": "#a80505",
+
+		"terminal.foreground": "#e4cb99",
+
+		"panel.background": "#20150c",
+		"panelSectionHeader.foreground": "#e4cb99",
+		"panelTitle.activeForeground": "#e4cb99",
+
+		"statusBar.background": "#1a0808",
+		"statusBar.foreground": "#e7b365bb",
 	},
 	"tokenColors": [
 		{
@@ -15,7 +88,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#e4cb99"
 			}
 		},
 		{
