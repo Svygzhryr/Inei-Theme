@@ -8,6 +8,15 @@
 		#27190e
 		*/
 
+		"focusBorder": "#3d2716",
+		"foreground": "#e4cb99",
+		"disabledForeground": "#a18e66",
+		"selection.background": "#f1a32d5b",
+		"descriptionForeground": "#ffffff",
+		"errorForeground": "#4D99FA",
+		"icon.foreground": "#e4cb99",
+		"sash.hoverBorder": "#3d2716",
+		
 		"titleBar.activeBackground": "#1a0808",
 		"titleBar.activeForeground": "#e4c495",
 		"titleBar.inactiveBackground": "#1a110a",
@@ -29,6 +38,15 @@
 
 		"button.background": "#fabd4d",
 		"button.foreground": "#1a110a",
+		"button.hoverBackground": "#ffd485",
+		"button.secondaryBackground": "#3d2716",
+		"button.secondaryForeground": "#e4cb99",
+		"button.secondaryHoverBackground": "#413124",
+		"button.separator": "#27190e",
+
+		"checkbox.background": "#ff0000",
+		"checkbox.border": "#ff0000",
+		"checkbox.foreground": "#ff0000",
 
 		"tab.border": "#1a110a",
 		"tab.inactiveModifiedBorder": "#1a110a",
@@ -68,7 +86,16 @@
 		"list.activeSelectionBackground": "#633f24",
 		"list.activeSelectionForeground": "#fabd4d",
 		"list.warningForeground": "#fabd4d",
-		"list.errorForeground": "#a80505",
+		"list.errorForeground": "#67def3",
+
+		"input.background": "#633f24",
+		"input.border": "#3d2716",
+		"input.foreground": "#e4cb99",
+		"input.placeholderForeground": "#a18e66",
+		"inputOption.activeBackground": "#20150c",
+		"inputOption.activeForeground": "#e4cb99",
+		"inputOption.activeBorder": "#20150c",
+		"inputOption.hoverBackground": "#27190e",
 
 		"terminal.foreground": "#e4cb99",
 
