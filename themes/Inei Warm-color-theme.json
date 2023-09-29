@@ -17,14 +17,14 @@
 		"icon.foreground": "#e4cb99",
 		"sash.hoverBorder": "#3d2716",
 
-		"activityBar.background": "#1a110a",
+		"activityBar.background": "#14110c",
 		"activityBar.activeFocusBorder": "#fabd4d",
 		"activityBar.activeBorder": "#fabd4d",
 		"activityBar.activeBackground": "#20150c",
 		"activityBar.inactiveForeground": "#e4cb99",
 		"activityBar.foreground": "#fabd4d",
 		"activityBarBadge.background": "#fabd4d",
-		"activityBarBadge.foreground": "#1a0808",
+		"activityBarBadge.foreground": "#1a110a",
 
 		"badge.background": "#fabd4d",
 		"badge.foreground": "#1a110a",
@@ -40,6 +40,11 @@
 		"checkbox.background": "#ff0000",
 		"checkbox.border": "#ff0000",
 		"checkbox.foreground": "#ff0000",
+
+		"diffEditor.insertedLineBackground": "#e0b76542",
+		"diffEditor.removedLineBackground": "#67def33b",
+		"diffEditor.insertedTextBackground": "#e0b76542",
+		"diffEditor.removedTextBackground": "#67def33b",
 
 		"dropdown.background": "#3d2716",
 		"dropdown.border": "#1a110a",
@@ -69,6 +74,13 @@
 		"editorGutter.addedBackground": "#e4cb99",
 		"editorGutter.deletedBackground": "#ff7d66",
 		"editorGutter.modifiedBackground": "#633f24",
+		"editorCommentsWidget.rangeActiveBorder": "#ff7d66",
+		"editorCommentsWidget.rangeBackground": "#e4cb9925",
+		"editorCommentsWidget.unresolvedBorder": "#e4c495",
+		"editorWidget.background": "#1a110a",
+		"editorWidget.border": "#633f24",
+		"editorWidget.foreground": "#e4cb99",
+		"editorWidget.resizeBorder": "#e4cb99",
 
 		"editorGroupHeader.noTabsBackground": "#1a110a",
 		"editorGroupHeader.tabsBackground": "#20150c",
