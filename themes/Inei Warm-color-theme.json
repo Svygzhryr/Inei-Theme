@@ -68,7 +68,7 @@
 		"editor.findMatchBorder": "#e4cb99",
 		"editorLink.activeForeground": "#fffae6",
 		"editorWarning.background": "#9496ff00",
-		"editorWarning.foreground": "#9496ff",
+		"editorWarning.foreground": "#9496ff73",
 		"editorInfo.foreground": "#fffae6",
 		"editorGutter.background": "#130e0d",
 		"editorGutter.addedBackground": "#fffae6",
@@ -171,9 +171,9 @@
 		"terminal.foreground": "#e4cb99",
 
 		"errorLens.errorForeground": "#67def3",
-		"errorLens.errorBackground": "#67def32f",
-		"errorLens.warningForeground": "#9496ff",
-		"errorLens.warningBackground": "#9496ff2f"
+		"errorLens.errorBackground": "#67def31a",
+		"errorLens.warningForeground": "#9496ff8f",
+		"errorLens.warningBackground": "#9496ff10"
 	},
 	"tokenColors": [
 		{
@@ -203,7 +203,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ffd037"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff7d66"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#fabd4d"
 			}
 		},
 		{
@@ -244,7 +244,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#fffae6"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#d578e8"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff6b6b"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#fffae6"
 			}
 		},
 		{
@@ -303,7 +303,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ffdec4"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#4dc042"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffd037"
 			}
 		},
 		{
@@ -343,7 +343,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#7a95ff"
 			}
 		},
 		{
