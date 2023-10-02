@@ -12,7 +12,7 @@
 		"foreground": "#e4cb99",
 		"disabledForeground": "#a18e66",
 		"selection.background": "#946c5c",
-		"descriptionForeground": "#ffffff",
+		"descriptionForeground": "#fffae6",
 		"errorForeground": "#67def3",
 		"icon.foreground": "#e4cb99",
 		"sash.hoverBorder": "#140e0c",
@@ -37,9 +37,9 @@
 		"button.secondaryHoverBackground": "#413124",
 		"button.separator": "#110c0a",
 
-		"checkbox.background": "#ff0000",
-		"checkbox.border": "#ff0000",
-		"checkbox.foreground": "#ff0000",
+		"checkbox.background": "#130e0d",
+		"checkbox.foreground": "#e4cb99",
+		"checkbox.border": "#e4cb99",
 
 		"diffEditor.insertedLineBackground": "#e0b76542",
 		"diffEditor.removedLineBackground": "#67def33b",
@@ -81,9 +81,22 @@
 		"editorWidget.border": "#633f24",
 		"editorWidget.foreground": "#e4cb99",
 		"editorWidget.resizeBorder": "#e4cb99",
+		"editorOverviewRuler.errorForeground": "#67def3",
+		"editorOverviewRuler.warningForeground": "#9496ff",
 
 		"editorGroupHeader.noTabsBackground": "#110c0a",
 		"editorGroupHeader.tabsBackground": "#16120f",
+
+		"gitDecoration.addedResourceForeground": "#fffae6",
+		"gitDecoration.conflictingResourceForeground": "#67def3",
+		"gitDecoration.deletedResourceForeground": "#75544744",
+		"gitDecoration.ignoredResourceForeground": "#8a8a8a",
+		"gitDecoration.modifiedResourceForeground": "#e7b365bb",
+		"gitDecoration.renamedResourceForeground": "#83f1ba",
+		"gitDecoration.stageDeletedResourceForeground": "#e2bcf8",
+		"gitDecoration.stageModifiedResourceForeground": "#f3e245",
+		"gitDecoration.submoduleResourceForeground": "#b3f07a",
+		"gitDecoration.untrackedResourceForeground": "#ff7d66",
 
 		"input.background": "#130e0d",
 		"input.border": "#0c0908",
@@ -109,6 +122,9 @@
 		"list.warningForeground": "#9496ff",
 		"list.errorForeground": "#67def3",
 
+		"minimap.errorHighlight": "#67def3",
+		"minimap.warningHighlight": "#9496ff",
+
 		"notifications.background": "#110c0a",
 		"notifications.foreground": "#e4c495",
 		"notificationsErrorIcon.foreground": "#67def3",
@@ -132,6 +148,8 @@
 
 		"statusBar.background": "#110c0a",
 		"statusBar.foreground": "#fabd4d",
+		"statusBarItem.errorForeground": "#67def3",
+		"statusBarItem.warningForeground": "#9496ff",
 
 		"titleBar.activeBackground": "#110c0a",
 		"titleBar.activeForeground": "#e4c495",
@@ -151,6 +169,11 @@
 
 		"terminal.background": "#16120f",
 		"terminal.foreground": "#e4cb99",
+
+		"errorLens.errorForeground": "#67def3",
+		"errorLens.errorBackground": "#67def32f",
+		"errorLens.warningForeground": "#9496ff",
+		"errorLens.warningBackground": "#9496ff2f"
 	},
 	"tokenColors": [
 		{
@@ -171,7 +194,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#fffae6"
 			}
 		},
 		{
