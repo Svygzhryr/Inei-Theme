@@ -171,7 +171,7 @@
 		"terminal.foreground": "#e4cb99",
 
 		"errorLens.errorForeground": "#67def3",
-		"errorLens.errorBackground": "#67def31a",
+		"errorLens.errorBackground": "#67def313",
 		"errorLens.warningForeground": "#9496ff8f",
 		"errorLens.warningBackground": "#9496ff10"
 	},
@@ -260,7 +260,7 @@
 						"constant.other.caps"
 				],
 				"settings": {
-						"foreground": "#ff9e64"
+						"foreground": "#d49773"
 				}
 		},
 		{
@@ -274,7 +274,7 @@
 				],
 				"settings": {
 						"fontStyle": "",
-						"foreground": "#6ae05f"
+						"foreground": "#b9e248"
 				}
 		},
 		{
@@ -318,7 +318,7 @@
 						"storage.modifier"
 				],
 				"settings": {
-						"foreground": "#9d7cd8"
+						"foreground": "#ece6d0"
 				}
 		},
 		{
@@ -401,7 +401,7 @@
 						"meta.import keyword.other"
 				],
 				"settings": {
-						"foreground":  "#ffafaf"
+						"foreground":  "#fabd4d"
 				}
 		},
 		{
@@ -581,7 +581,7 @@
 						"meta.object-literal entity.name.function"
 				],
 				"settings": {
-						"foreground": "#c486d0"
+						"foreground": "#af85ff"
 				}
 		},
 		{
@@ -619,7 +619,7 @@
 						"variable.other.declaration"
 				],
 				"settings": {
-						"foreground": "#fff5cb"
+						"foreground": "#fae790"
 				}
 		},
 		{
@@ -656,7 +656,7 @@
 				"name": "Class Name",
 				"scope": "entity.name",
 				"settings": {
-						"foreground": "#918fff"
+						"foreground": "#d1bdff"
 				}
 		},
 		{
