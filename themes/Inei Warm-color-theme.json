@@ -260,7 +260,7 @@
 						"constant.other.caps"
 				],
 				"settings": {
-						"foreground": "#d49773"
+						"foreground": "#ffad50"
 				}
 		},
 		{
@@ -663,7 +663,7 @@
 				"name": "Support Function",
 				"scope": "support.function",
 				"settings": {
-						"foreground": "#0db9d7"
+						"foreground": "#f5da45"
 				}
 		},
 		{
@@ -680,7 +680,7 @@
 						"support.type.map.key"
 				],
 				"settings": {
-						"foreground": "#7aa2f7"
+						"foreground": "#c3a2ff"
 				}
 		},
 		{
@@ -700,7 +700,7 @@
 						"meta.at-rule.mixin.scss entity.name.function.scss"
 				],
 				"settings": {
-						"foreground": "#9ece6a"
+						"foreground": "#fabd4d"
 				}
 		},
 		{
@@ -714,7 +714,7 @@
 				"name": "CSS Tag",
 				"scope": "entity.name.tag.css",
 				"settings": {
-						"foreground": "#0db9d7"
+						"foreground": "#b9e248"
 				}
 		},
 		{
@@ -726,14 +726,14 @@
 						"entity.name.tag.reference"
 				],
 				"settings": {
-						"foreground": "#e0af68"
+						"foreground": "#ffffff"
 				}
 		},
 		{
 				"name": "CSS Punctuation",
 				"scope": "meta.property-list",
 				"settings": {
-						"foreground": "#9abdf5" //"#e0af68"
+						"foreground": "#dfdfdf" //"#e0af68"
 				}
 		},
 		{
@@ -744,7 +744,7 @@
 						"meta.property-list meta.at-rule.else"
 				],
 				"settings": {
-						"foreground": "#ff9e64"
+						"foreground": "#b1ff8e"
 				}
 		},
 		{
@@ -753,7 +753,7 @@
 						"entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity.css"
 				],
 				"settings": {
-						"foreground": "#73daca"
+						"foreground": "#da9973"
 				}
 		},
 		{
@@ -761,7 +761,7 @@
 				"scope":
 						"meta.property-list meta.property-list",
 				"settings": {
-						"foreground": "#9abdf5"
+						"foreground": "#f5dd9a"
 				}
 		},
 		{
