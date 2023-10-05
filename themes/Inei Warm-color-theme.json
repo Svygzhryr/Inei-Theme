@@ -490,7 +490,7 @@
 
 				],
 				"settings": {
-						"foreground": "#fae790"
+						"foreground": "#e6ce66"
 				}
 		},
 		{
@@ -619,7 +619,7 @@
 						"variable.other.declaration"
 				],
 				"settings": {
-						"foreground": "#fae790"
+						"foreground": "#f5e085"
 				}
 		},
 		{
@@ -680,7 +680,7 @@
 						"support.type.map.key"
 				],
 				"settings": {
-						"foreground": "#c3a2ff"
+						"foreground": "#b992b0"
 				}
 		},
 		{
@@ -726,14 +726,14 @@
 						"entity.name.tag.reference"
 				],
 				"settings": {
-						"foreground": "#ffffff"
+						"foreground": "#f0842d"
 				}
 		},
 		{
 				"name": "CSS Punctuation",
 				"scope": "meta.property-list",
 				"settings": {
-						"foreground": "#dfdfdf" //"#e0af68"
+						"foreground": "#d1bfb5" //"#e0af68"
 				}
 		},
 		{
@@ -761,7 +761,7 @@
 				"scope":
 						"meta.property-list meta.property-list",
 				"settings": {
-						"foreground": "#f5dd9a"
+						"foreground": "#d1ccb5"
 				}
 		},
 		{
@@ -887,7 +887,7 @@
 						"meta.property-list meta.property-value"
 				],
 				"settings": {
-						"foreground": "#bb9af7"
+						"foreground": "#ee7c7c"
 				}
 		},
 		{
@@ -979,7 +979,7 @@
 				"name": "CSS Units",
 				"scope": "keyword.other.unit",
 				"settings": {
-						"foreground": "#f7768e"
+						"foreground": "#d1ccb5"
 				}
 		},
 		{
