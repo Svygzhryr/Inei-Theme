@@ -441,7 +441,7 @@
 				"name": "Tag",
 				"scope": "entity.name.tag",
 				"settings": {
-						"foreground": "#f7768e"
+						"foreground": "#ffab73"
 				}
 		},
 		{
@@ -453,14 +453,14 @@
 						"meta.tag"
 				],
 				"settings": {
-						"foreground": "#de5971"
+						"foreground": "#f57b56"
 				}
 		},
 		{
 				"name": "Tag Punctuation",
 				"scope": "punctuation.definition.tag",
 				"settings": {
-						"foreground": "#ba3c97"
+						"foreground": "#fc82b1"
 				}
 		},
 		{
@@ -772,7 +772,7 @@
 						"meta.at-rule.include keyword.control.at-rule.include"
 				],
 				"settings": {
-						"foreground": "#bb9af7"
+						"foreground": "#f0842d"
 				}
 		},
 		{
@@ -790,14 +790,14 @@
 						"keyword.control punctuation.definition.keyword"
 				],
 				"settings": {
-						"foreground": "#9d7cd8"
+						"foreground": "#fc7b7b"
 				}
 		},
 		{
 				"name": "SCSS Include Mixin Argument",
 				"scope": "meta.property-list meta.at-rule.include",
 				"settings": {
-						"foreground": "#c0caf5"
+						"foreground": "#61df5c"
 				}
 		},
 		{
@@ -815,21 +815,21 @@
 						"variable.other.class.js"
 				],
 				"settings": {
-						"foreground": "#c0caf5"
+						"foreground": "#e9c2b6"
 				}
 		},
 		{
 				"name": "Language methods",
 				"scope": "variable.language",
 				"settings": {
-						"foreground": "#f7768e"
+						"foreground": "#e78798"
 				}
 		},
 		{
 				"name": "Variable punctuation",
 				"scope": "variable.other punctuation.definition.variable",
 				"settings": {
-						"foreground": "#c0caf5"
+						"foreground": "#f7e8b8"
 				}
 		},
 		{
@@ -851,14 +851,14 @@
 						"text.html.basic entity.other.attribute-name"
 				],
 				"settings": {
-						"foreground": "#bb9af7"
+						"foreground": "#a992d3"
 				}
 		},
 		{
 				"name": "HTML Character Entity",
 				"scope": "text.html constant.character.entity",
 				"settings": {
-						"foreground": "#0DB9D7"
+						"foreground": "#ffe96e"
 				}
 		},
 		{
@@ -875,7 +875,7 @@
 				"name": "CSS ID's",
 				"scope": "source.sass keyword.control",
 				"settings": {
-						"foreground": "#7aa2f7"
+						"foreground": "#f59999"
 				}
 		},
 		{
@@ -1112,7 +1112,7 @@
 						"text.log"
 				],
 				"settings": {
-						"foreground": "#9aa5ce"
+						"foreground": "#e6dbcb"
 				}
 		},
 		{
