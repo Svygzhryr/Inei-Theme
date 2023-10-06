@@ -1,6 +1,6 @@
 {
-  "name": "warm-inei",
-  "displayName": "Warm Inei",
+  "name": "giza",
+  "displayName": "Giza",
   "description": "I always felt like no other warm theme suits me, so I created my own.",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Inei Warm",
+        "label": "Giza",
         "uiTheme": "vs-dark",
-        "path": "./themes/Inei Warm-color-theme.json"
+        "path": "./themes/giza-color-theme.json"
       }
     ]
   }
