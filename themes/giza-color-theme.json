@@ -3,13 +3,6 @@
 	"author": "Svygzhryr",
 	"type": "dark",
 	"colors": {
-		// main colors
-		/*
-		#110c0a
-		#16120f
-		#110c0a
-		*/
-
 		"focusBorder": "#3d2b24",
 		"foreground": "#e4cb99",
 		"disabledForeground": "#a18e66",
@@ -94,12 +87,12 @@
 		"editorWidget.resizeBorder": "#e4cb99",
 		"editorOverviewRuler.errorForeground": "#67def3",
 		"editorOverviewRuler.warningForeground": "#9496ff",
-		"editorBracketHighlight.foreground1": "#d86767", //"#7AA2F7",
-		"editorBracketHighlight.foreground2": "#a97ad4", //"#7DCFFF",
-		"editorBracketHighlight.foreground3": "#d49f3d", //"#BB9AF7",
-		"editorBracketHighlight.foreground4": "#6ebe3f", //"#2AC3DE",
-		"editorBracketHighlight.foreground5": "#df99b0", //"#9ECE6A",
-		"editorBracketHighlight.foreground6": "#e0e242", //"#e0af68",
+		"editorBracketHighlight.foreground1": "#d86767",
+		"editorBracketHighlight.foreground2": "#a97ad4",
+		"editorBracketHighlight.foreground3": "#d49f3d",
+		"editorBracketHighlight.foreground4": "#6ebe3f",
+		"editorBracketHighlight.foreground5": "#df99b0",
+		"editorBracketHighlight.foreground6": "#e0e242",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#db4b4b",
 		"editorBracketPairGuide.activeBackground1": "#af5454",
 		"editorBracketPairGuide.activeBackground2": "#8662a8",
