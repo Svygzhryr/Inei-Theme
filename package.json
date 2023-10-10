@@ -2,12 +2,27 @@
   "name": "giza",
   "displayName": "Giza",
   "description": "I always felt like no other warm theme suits me, so I created my own.",
-  "version": "0.0.1",
+  "publisher": "Svygzhryr",
+  "version": "1.0.0",
+  "license": "MIT",
+  "icon": "giza.png",
   "engines": {
     "vscode": "^1.82.0"
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "warm",
+    "sand",
+    "ash"
+  ],
+  "repository": {
+    "url": "https://github.com/Svygzhryr/Giza",
+    "type": "git"
+  },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [
