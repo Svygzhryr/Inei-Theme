@@ -907,6 +907,7 @@
 						"source.js constant.other.object.key.js string.unquoted.label.js",
 						"variable.language.this punctuation.definition.variable",
 						"keyword.other.this",
+						"variable.language.this.js",
 						"variable.language.this.ts"
 				],
 				"settings": {
