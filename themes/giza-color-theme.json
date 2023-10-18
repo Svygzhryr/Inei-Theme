@@ -199,6 +199,7 @@
 
 		"statusBar.background": "#110c0a",
 		"statusBar.foreground": "#fabd4d",
+		"statusBar.debuggingBackground": "#3d2b24",
 		"statusBarItem.errorForeground": "#67def3",
 		"statusBarItem.warningForeground": "#9496ff",
 
@@ -510,7 +511,8 @@
 				"name": "Tag",
 				"scope": "entity.name.tag",
 				"settings": {
-						"foreground": "#df933c"
+						"foreground": "#dbc544",
+						"fontStyle": "bold"
 				}
 		},
 		{
@@ -522,14 +524,14 @@
 						"meta.tag"
 				],
 				"settings": {
-						"foreground": "#f57b56"
+						"foreground": "#e79696"
 				}
 		},
 		{
 				"name": "Tag Punctuation",
 				"scope": "punctuation.definition.tag",
 				"settings": {
-						"foreground": "#f0d854"
+						"foreground": "#d6853a"
 				}
 		},
 		{
@@ -907,7 +909,8 @@
 						"source.js constant.other.object.key.js string.unquoted.label.js",
 						"variable.language.this punctuation.definition.variable",
 						"keyword.other.this",
-						"variable.language.this.ts"
+						"variable.language.this.ts",
+						"variable.language.this.tsx"
 				],
 				"settings": {
 						"foreground": "#dfca52",
@@ -1050,7 +1053,7 @@
 				"name": "CSS Units",
 				"scope": "keyword.other.unit",
 				"settings": {
-						"foreground": "#d1ccb5"
+						"foreground": "#e2decd"
 				}
 		},
 		{
@@ -1068,7 +1071,7 @@
 						"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 				],
 				"settings": {
-						"foreground": "#e77a92"
+						"foreground": "#e7997a"
 				}
 		},
 		{
