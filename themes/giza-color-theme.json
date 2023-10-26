@@ -45,9 +45,9 @@
 		"checkbox.foreground": "#e4cb99",
 		"checkbox.border": "#e4cb99",
 
-		"diffEditor.insertedLineBackground": "#e0b76542",
-		"diffEditor.removedLineBackground": "#75c5d33b",
-		"diffEditor.insertedTextBackground": "#e0b76542",
+		"diffEditor.insertedLineBackground": "#d1db4842",
+		"diffEditor.removedLineBackground": "#44ecd62f",
+		"diffEditor.insertedTextBackground": "#e0b76523",
 		"diffEditor.removedTextBackground": "#75c5d33b",
 
 		"dropdown.background": "#110c0a",
