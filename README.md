@@ -5,8 +5,8 @@ Just a theme with colors I personally prefer, published in case someone will fin
 
 ### Some screenshots: 
 
-![Screenshot_38](https://github.com/Svygzhryr/Giza/assets/80585863/1de47b78-c45a-43f8-9e9f-e767587149e7)
+![image](https://github.com/Svygzhryr/Giza/assets/80585863/f4f52659-00e1-4929-ba65-bbb6cbb62aab)
 
-![Screenshot_37](https://github.com/Svygzhryr/Giza/assets/80585863/07bd9d82-d97d-4349-8615-ef047928edd2)
+![image](https://github.com/Svygzhryr/Giza/assets/80585863/b04ddf65-500b-4bf0-97e2-793ce7891180)
 
 Feedback is welcome!
