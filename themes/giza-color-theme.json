@@ -45,10 +45,10 @@
     "checkbox.foreground": "#e4cb99",
     "checkbox.border": "#e4cb99",
 
-    "diffEditor.insertedLineBackground": "#d1db4842",
-    "diffEditor.removedLineBackground": "#44ecd62f",
-    "diffEditor.insertedTextBackground": "#e0b76523",
-    "diffEditor.removedTextBackground": "#75c5d33b",
+    "diffEditor.insertedLineBackground": "#cfc03942",
+    "diffEditor.removedLineBackground": "#d840402f",
+    "diffEditor.insertedTextBackground": "#faaf1823",
+    "diffEditor.removedTextBackground": "#e221213b",
 
     "dropdown.background": "#110c0a",
     "dropdown.border": "#110c0a",
@@ -346,7 +346,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#a6c25a"
+        "foreground": "#f89494"
       }
     },
     {
@@ -384,7 +384,7 @@
       "name": "Storage - modifier, var, const, let",
       "scope": ["meta.var.expr storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#e7cf48"
+        "foreground": "#f7e440"
       }
     },
     {
@@ -715,7 +715,7 @@
       "name": "Class Name",
       "scope": "entity.name",
       "settings": {
-        "foreground": "#ff966c"
+        "foreground": "#f36767"
       }
     },
     {
@@ -746,7 +746,7 @@
       "name": "CSS Font",
       "scope": ["support.constant.font-name", "meta.definition.variable"],
       "settings": {
-        "foreground": "#9ece6a"
+        "foreground": "#fabd4d"
       }
     },
     {
@@ -770,7 +770,7 @@
       "name": "CSS Tag",
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#b9e248"
+        "foreground": "#f1e64b"
       }
     },
     {
@@ -1063,7 +1063,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#e57dff"
+        "foreground": "#c46eda"
       }
     },
     {
@@ -1072,7 +1072,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#a5a3f1"
+        "foreground": "#9d9cd1"
       }
     },
     {
