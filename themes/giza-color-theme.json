@@ -198,7 +198,7 @@
     "sideBarTitle.foreground": "#e4cb99",
 
     "statusBar.background": "#110c0a",
-    "statusBar.foreground": "#a18e66",
+    "statusBar.foreground": "#fabd4d",
     "statusBar.noFolderBackground": "#130e0d",
     "statusBar.debuggingBackground": "#3d2b24",
     "statusBarItem.errorBackground": "#0d0a11",
@@ -265,6 +265,7 @@
         "fontStyle": "italic"
       }
     },
+
     {
       "name": "Fix YAML block scalar, Python Logical",
       "scope": [
@@ -346,7 +347,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#f89494"
+        "foreground": "#85c747"
       }
     },
     {
@@ -384,7 +385,7 @@
       "name": "Storage - modifier, var, const, let",
       "scope": ["meta.var.expr storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#f7e440"
+        "foreground": "#d44e4e"
       }
     },
     {
@@ -715,7 +716,7 @@
       "name": "Class Name",
       "scope": "entity.name",
       "settings": {
-        "foreground": "#f36767"
+        "foreground": "#d44e4e"
       }
     },
     {
